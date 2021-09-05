@@ -1,6 +1,6 @@
-## Olá! Bem vindo ao meu Perfil! 🚀
+## Bem vindo ao meu Perfil! 🚀
 
-- 🌱 Estudando JavaScript
+- 🌱 Atualmente estou estudando JavaScript
 - 🎓 Cursando Análise e Desenvolvimento de Sistema - Fatec Franca-Sp
 - 📫 Contate-me no email: morettegustavo@gmail.com
 
