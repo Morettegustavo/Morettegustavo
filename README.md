@@ -1,6 +1,6 @@
 ## Bem vindo ao meu Perfil! 🚀
 
-- 🌱 Atualmente estou estudando JavaScript
+- 🌱 Atualmente estou estudando Laravel
 - 🎓 Cursando Análise e Desenvolvimento de Sistema - Fatec Franca-Sp
 - 📫 Contate-me no email: morettegustavo@gmail.com
 
