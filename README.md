@@ -2,8 +2,7 @@
 
 - 🌱 Atualmente estou estudando Laravel
 - 🎓 Cursando Análise e Desenvolvimento de Sistema - Fatec Franca-Sp
-- 📫 Contate-me no email: morettegustavo@gmail.com
-
+- 📫 Contate-me no <a href="https://www.linkedin.com/in/gustavo-morette/" target="_blank">Linkedin</a>
 
 ***
 
