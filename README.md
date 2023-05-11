@@ -1,6 +1,6 @@
 ## Bem vindo ao meu Perfil! 🚀
 
-- 🌱 Atualmente estou estudando Laravel
+- 🌱 Desenvolvedor de software backend PHP
 - 🎓 Cursando Análise e Desenvolvimento de Sistema - Fatec Franca-Sp
 - 📫 Contate-me no <a href="https://www.linkedin.com/in/gustavo-morette/" target="_blank">Linkedin</a>
 
