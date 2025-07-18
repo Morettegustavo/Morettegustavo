@@ -1,7 +1,7 @@
 ## Bem vindo ao meu Perfil! 🚀
 
-- 🌱 Desenvolvedor de software backend PHP
-- 🎓 Cursando Análise e Desenvolvimento de Sistema - Fatec Franca-Sp
+- 🌱 Desenvolvedor Full Stack
+- 🎓 Formado em Análise e Desenvolvimento de Sistema - Fatec Franca-Sp
 - 📫 Contate-me no <a href="https://www.linkedin.com/in/gustavo-morette/" target="_blank">Linkedin</a>
 
 ***
