@@ -8,11 +8,12 @@
 
  <div>
   <a href="https://github.com/Morettegustavo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Morettegustavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morettegustavo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
+
+  <img align="center" height="30" width="30" alt="spring-boot" src="https://imgs.search.brave.com/PCKYYxNRhQYQHJVvLRiXFrzAWUHv2fnu6CF5O7bg8JY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9zcHJpbmct/Ym9vdC1pY29uLnBu/Zw">
   <img align="center" height="30" width="30" alt="laravel" src="https://github.com/user-attachments/assets/ad6d07cb-1eee-40d8-87a2-aaf1b40b484b">
   <img align="center" alt="magento" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" />
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
